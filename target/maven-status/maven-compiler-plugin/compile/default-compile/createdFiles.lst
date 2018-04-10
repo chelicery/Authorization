@@ -1,0 +1,12 @@
+domain/PREMIUM.class
+web/LoginServlet.class
+domain/SuperUser.class
+domain/User.class
+web/UserProfileServlet.class
+filters/LoggedInFilter.class
+domain/LoggedInUser.class
+repositories/UserRepository.class
+web/AddUserServlet.class
+web/UsersListServlet.class
+repositories/IUserRepository.class
+domain/PremiumUser.class

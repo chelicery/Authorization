@@ -1,0 +1,12 @@
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/domain/PREMIUM.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/filters/LoggedInFilter.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/domain/LoggedInUser.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/repositories/IUserRepository.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/web/LoginServlet.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/domain/User.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/repositories/UserRepository.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/web/UserProfileServlet.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/domain/PremiumUser.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/web/UsersListServlet.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/domain/SuperUser.java
+/home/bartek/eclipse-workspace/authorizationSystem/src/main/java/web/AddUserServlet.java
